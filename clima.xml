@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+       <selos>
+       <video urlprev="http://videos.climatempo.com.br/selos/video.swf" urlmkt="http://videos.climatempo.com.br/mkt/video1.swf" />
+       <parametro qtd="4" video="co"/><cidade nome="MS - Nova Andradina" data="05/11 Ter" low="18" high="31" prob="0" mm="0" ico="2" frase="Sol com algumas nuvens. Não chove." /><cidade nome="MS - Nova Andradina" data="06/11 Qua" low="19" high="31" prob="0" mm="0" ico="2" frase="Sol com algumas nuvens. Não chove." /><cidade nome="MS - Nova Andradina" data="07/11 Qui" low="18" high="33" prob="0" mm="0" ico="2" frase="Sol com algumas nuvens. Não chove." /><cidade nome="MS - Nova Andradina" data="08/11 Sex" low="19" high="35" prob="0" mm="0" ico="2" frase="Sol com algumas nuvens. Não chove." /></selos>
