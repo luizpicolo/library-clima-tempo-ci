@@ -74,7 +74,7 @@ class Clima_CI {
         file_put_contents($this->caminho_arquivo, utf8_encode($pagina));
         $xml = simplexml_load_file($this->caminho_arquivo);
 
-        echo '<div class="tempo">
+        return '<div class="tempo">
                 <div class="cidade">'.$xml->cidade['nome'].'</div>
 			    <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="60" height="60" align="middle">
                     <param name="movie" value="http://imagens.climatempo.com.br/selos/icones/' . $xml->cidade[0]['ico'] . '.swf"  />
